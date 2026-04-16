@@ -48,7 +48,7 @@ Healthcare providers often face high no-show rates, leading to inefficient resou
 ---
 
 ## 📊 Dashboard
-[Link to Looker Studio Dashboard]
+![Dashboard Preview](Report_Medical_Appoinment.pdf/dashboard_preview.png)
 
 ---
 
