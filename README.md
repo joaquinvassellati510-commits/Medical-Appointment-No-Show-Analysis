@@ -48,8 +48,7 @@ Healthcare providers often face high no-show rates, leading to inefficient resou
 ---
 
 ## 📊 Dashboard
-![Dashboard Preview](images.png/dashboard_preview.png)
----
+![Dashboard Preview](images/images.png)---
 
 ## 🛠 Tools Used
 - SQL (BigQuery)
