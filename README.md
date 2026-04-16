@@ -49,7 +49,6 @@ Healthcare providers often face high no-show rates, leading to inefficient resou
 
 ## 📊 Dashboard
 ![Dashboard Preview](images/images.png)
-
 ---
 
 ## 🛠 Tools Used
